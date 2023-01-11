@@ -1,5 +1,5 @@
 # Big-Data-Python
-# LUNES
+# DIA 1
 
 M5-01-PYTHON NOTEBOOK
 
@@ -7,3 +7,10 @@ M5-02-CONDICIONALES
 
 M5-03-BUCLES
 
+# DIA 2
+
+SPACE-X
+
+# DIA 3
+
+BTC
